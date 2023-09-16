@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7e85cc6-cfe3-433c-8636-77c7213e7de6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.RData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../.Rhistory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Year1/Semester1/Programming Fundamentals/Semester1/PyCharm/.idea/PyCharm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Year1/Semester1/Programming Fundamentals/Semester1/week1/.idea/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Year1/Semester1/Programming Fundamentals/Semester1/week2/.idea/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Year1/Semester1/Programming Fundamentals/Semester1/week3/.idea/week3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment1/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment1/out/production/Assignment1/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment2/Assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment2/List/.idea/List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment2/List/List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment3/Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment3/Emma's stuff/Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment3/Emma's stuff/Queue/out/production/Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment4/.idea/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment4/Assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment5/Assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/Alg&amp;Alg/Assignment5/Emma's stuff/Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/.idea/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/.idea/Ass2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/.idea/libraries/A02_Part2_to_students.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass2/src/Ass2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/.idea/Ass3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Example_Java_Application/A03_Example_Java_Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/A03_Student_Java_Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/A03_Student_Java_Application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/MyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/TeaFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/Ass3/A03_Student_Java_Application/src/teaShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/OOP/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Semester1/ServerSideWebDev/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ass1/.idea/Ass1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/.idea/C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Ass1/.idea/Ass1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Ass2/move_ship2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Ass2/move_ship_20kVersion_HogsBottomHalf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Ass2/move_ship_currentBest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Ass2/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Assignment1/.idea/Assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/CommandLineArgsLec/.idea/CommandLineArgsLec.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/Lab3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/StructsLab/.idea/StructsLab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/basicPointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lab3Task2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lab3Task2FunctionalProto.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lab3Task3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lab6/.idea/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lab6/guess.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lab6/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lacTest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/lectureGetChar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/pointerFunctions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C/untitled/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOAnal/untitled/src/LoanApprovalHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment1/src/main/java/com/example/assignment1/StudentFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/example/assignment1/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/example/assignment1/Module.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment2/src/main/java/com/example/assignment1/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/Test/TestStudApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment3/src/main/java/com/example/assignment1/Validator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CarGUIexample/CarGUIexample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/com/example/dice/GPTdice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/DuckLab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/src/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/src/Mallard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/src/RubberDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/src/Turkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/src/TurkeyAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DuckLab/src/TurkeyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/Model/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/assignment1/dbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/main/java/com/helloworld/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JUnitTestExample/JUnitTestExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB10/RandomWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lb10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lb10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lb10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../person/src/main/java/com/example/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/Ass1/A01_Part1_Trees/A01_Part1_Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/Ass1/A01_Part1_Trees/out/production/A01_Part1_Trees/A01_Part1_Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/Ass1/A01_Part2&amp;Part3_Graphs/A01_Part2&amp;Part3_Graphs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/Ass1/A01_Part2&amp;Part3_Graphs/out/production/A01_Part2&amp;Part3_Graphs/A01_Part2&amp;Part3_Graphs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/Ass2/src/PaperRollCuttingBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/Ass2/src/RobotMoving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/lab1/.idea/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/lab2/.idea/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/lab2/1. Binary Trees/1. Binary Trees.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../non-linear/non-linear.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LN9FMXKCQY1CnEHblHvnmKqhs4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/dkmit/OneDrive/Documents/MTU emails and docs/Year2/Semester2/OOP/Assignment3/src/main/java/com/example/assignment1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dkmit/OneDrive/Documents/MTU emails and docs/Year2/Semester2/OOP/FinalProject&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dkmit\OneDrive\Documents\MTU emails and docs\Year2\Semester2\OOP\Assignment3\src\main\java\com\example\assignment1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.assignment1" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.assignment1.Main" />
+      <module name="Assignment3" />
+      <option name="VM_PARAMETERS" value="-Xms2G -Xmx2G " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Assignment3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStudApp" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in Assignment3" />
+      <item itemvalue="JUnit.TestStudApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Assignment3" />
+        <item itemvalue="JUnit.TestStudApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7e85cc6-cfe3-433c-8636-77c7213e7de6" name="Changes" comment="" />
+      <created>1675700570578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675700570578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinalProject$All_in_Assignment3.ic" NAME="All in Assignment3 Coverage Results" MODIFIED="1682719895041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
